@@ -1,0 +1,41 @@
+# Image files:
+*.jpg
+*.png
+
+# Ubuntu auto-generated files:
+.Trash-0/
+*.trashinfo
+
+# macOS auto-generated files:
+*.DS_Store
+
+# Python auto-generated files:
+*.pyc
+
+# Colcon auto-generated files:
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Kachaka API symlinks:
+# https://github.com/pf-robotics/kachaka-api
+# https://github.com/pf-robotics/kachaka-api/tree/main/ros2/demos
+ros2_ws/src/kachaka_grpc_ros2_bridge
+ros2_ws/src/kachaka_interfaces
+ros2_ws/src/kachaka_description
+ros2_ws/src/kachaka_follow
+ros2_ws/src/kachaka_nav2_bringup
+ros2_ws/src/kachaka_smart_speaker
+ros2_ws/src/kachaka_speak
+ros2_ws/src/kachaka_visionros2_ws/src/kachaka_python/course_demo_2025/API_key.txt
+ros2_ws/src/kachaka_python/course_demo_2025/API_key.txt
+ros2_ws/src/kachaka_python/course_demo/API_key.txt
+ros2_ws/src/kachaka_python/course_demo_2025/API_key.txt
+chatgpt/access_keys/OPENAI_API_KEY.key
+chatgpt/access_keys/*.key
+ros2_ws/src/kachaka_python/course_demo*/API_key.txt
+chatgpt/access_keys/*.key
+ros2_ws/src/kachaka_python/course_demo*/API_key.txt
+__pycache__/
+*.log
+ros2_ws/src/kachaka_python/pyttsx3/
